@@ -4,6 +4,9 @@ Analyze OpenClaw session `.jsonl` files in the browser with detailed token, cost
 
 ## What This App Does
 
+<img width="3057" height="1425" alt="image" src="https://github.com/user-attachments/assets/cec53734-5d37-4cf5-b240-e08ea228f113" />
+
+
 - Parses one or more OpenClaw session JSONL files client-side.
 - Normalizes each record into timeline events.
 - Computes:
